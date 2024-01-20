@@ -1,0 +1,26 @@
+#FormContainer{
+    border: 1px solid black;
+    padding: 15px;
+}
+.label{
+    font-weight: bolder;
+    width: 150px;
+    
+    float: left;
+}
+.boton{
+    text-align: center;
+}
+.send{
+    background-color: blue;
+    border: none;
+    width: 100px;
+    color: white;
+    border-radius: 20px;
+    padding: 7.5px;
+    font-size: 15px;
+}
+.send:hover{
+    cursor: pointer;
+    background-color: aqua;
+}
