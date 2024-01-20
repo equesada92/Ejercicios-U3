@@ -1,0 +1,26 @@
+
+.menu{
+    margin: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.menu ul{
+    background-color: green;
+   width: 150px;
+   list-style: none;
+    height: 500px;
+    margin-top: 0px;
+}
+.menu li{
+    margin-bottom: 20px;
+}
+.menu li:hover{
+    background-color: greenyellow;
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+
+}
+.menu a:visited{
+    color: black;
+}
